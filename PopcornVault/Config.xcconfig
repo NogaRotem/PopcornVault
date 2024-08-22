@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  PopcornVault
+//
+//  Created by Mor on 14/08/2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiYmE4OGU1ZjczZjkzNGZkNmVlMjNiZGExNWUxZmNmMiIsIm5iZiI6MTcyMzU2OTI4NC4yNTMyMzEsInN1YiI6IjY2YjhhMDM0YWJjY2Y3NmMyYWFhYjIwOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.HK0_M7aoSPLtqVw5ftIFZ7auyp0NsQ0Ro3Dg4Qec_GM
